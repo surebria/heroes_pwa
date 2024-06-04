@@ -1,0 +1,11 @@
+a{
+    font-size: 25px;
+    color: antiquewhite;
+}
+.container-fluid{
+    background-color: rgb(75, 70, 70);
+    color: aliceblue;
+}
+.navbar.navbar-expand-lg.bg-body-tertiary .nav-link {
+    color: white; 
+  }

@@ -1,0 +1,41 @@
+nav a{
+    padding: 15px;
+    text-decoration: dashed;
+    margin-top: 10px;
+    display: block;
+    background-color: rgb(218, 186, 248);
+    border-radius: 4px;
+    font-size: 24px;
+    margin-right:5px ;
+    text-align: center;
+}
+
+nav a:visited, a:link{
+    color: rgb(60, 60, 121);
+    text-align: center;
+    font-family: monospace;
+    align-items: center;
+}
+
+nav a:hover{
+    color: rgb(0, 170, 255);
+    background-color: rgb(198, 223, 244);
+}
+
+nav a:active{
+    color: rgb(0, 170, 255);
+}
+
+h1{
+    text-align: center;
+    font-family: monospace;
+    font-size: 30px;
+    color: rgb(56, 22, 88);
+}
+
+h3{
+    text-align: center;
+    font-family: monospace;
+    font-size: 20px;
+    color: rgb(56, 22, 88);
+}

@@ -1,0 +1,16 @@
+.jumbotron{
+    background-color: #3c3f3c;
+    color: #fff;
+    padding: 100px 25px;
+    border-radius: .3rem;
+    margin-bottom: 30px;
+}
+p{
+    color: #fff;
+    font-family: cursive;
+}
+.btn{
+    background-color: #a3c7a3;
+    color: #383636;
+    border: none;
+}
